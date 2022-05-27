@@ -1,0 +1,183 @@
+/* CSS Document */
+img {
+        border-radius: 4px;
+        float: left;
+        max-width: 170px;
+    }
+
+    .logo{
+        /* border : 1px solid #000; */
+        position: inherit;
+        padding: 20px 14px 20px 13px;
+    }
+
+    .float{
+        float : left;
+        overflow: auto;
+    }
+    .alamat{
+        float : left;
+        /* border : 1px solid #000; */
+        padding : 10px;
+        max-width: 75%;
+    }
+#common {
+   page: F4;
+   padding: 0px 0px 0px 0px;
+}
+
+#page {
+   clear: both;
+   font-family: Times;
+   font-size: 12pt;
+   overflow: hidden;
+   padding: 2.0cm 2.0cm;
+   margin: 30px 200px 30px 200px;
+   border: 1px solid grey;
+}
+
+#header {
+   text-align: center;
+}
+
+#main-body {
+   text-align: center;
+}
+
+#page h1 {
+   font-size: 20px;
+   margin: 0px 0px 0px 0px;
+   padding: 4px 0px 0px 0px;
+   letter-spacing: 7px;
+}
+
+#page h2 {
+   font-size: 18px;
+   text-align: left;
+   margin: 2px 0px 2px 0px;
+   padding: 6px 4px 6px 4px;
+   letter-spacing: 7px;
+}
+
+#page h3 {
+   font-size: 14px;
+   margin: 0px 0px 0px 0px;
+   padding: 0px 0px 0px 0px;
+}
+
+#page h4 {
+   font-size: 12px;
+   text-align: center;
+   font-family: Times;
+   margin: 0px 0px 0px 0px;
+   padding: 0px 0px 0px 0px;
+}
+
+#page p {
+   font-size: 12pt;
+   margin: 0px 0px 0px 0px;
+   padding: 0px 0px 0px 0px;
+}
+
+.header-khs {
+   margin: 0px 0px 20px 0px;
+   padding: 0px 0px 0px 0px;
+}
+
+.header-khs img {
+   float: left;
+   margin: 0px 10px 0px 0px;
+   padding: 0px 0px 0px 0px;
+}
+
+.table-common {
+   border: none;
+   font-size: 11px;
+   border-collapse: collapse;
+   margin: 30px 0px 20px 0px;
+   padding: 0px 0px 0px 0px;
+}
+
+.table-common th {
+   font-weight: bold;
+   text-align: left;
+   vertical-align: top;
+   margin: 0px 0px 0px 0px;
+   padding: 0px 20px 3px 0px; 
+}
+
+.table-common td {
+   vertical-align: top;
+   margin: 0px 0px 0px 0px;
+   padding: 0px 15px 3px 0px; 
+}
+
+.table-data {
+   border: 1px solid #f5f5f5;
+   font-size: 11px;
+   font-family: Times;
+   border-collapse: collapse;
+   margin: 0px 0px 0px 0px;
+   padding: 0px 0px 0px 0px;
+}
+
+.table-data th {
+   background-color: #f5f5f5;
+   border: 1px solid #d0d0d0;
+   text-align: center;
+   margin: 0px 0px 0px 0px;
+   padding: 4px 7px 4px 7px;  
+}
+
+.table-data td {
+   font-size: 12pt;
+   border: 1px solid #d0d0d0;
+   margin: 0px 0px 0px 0px;
+   padding: 4px 7px 4px 7px;  
+   text-align: center;
+}
+
+.box {
+	border : 1px solid #000;
+	margin-top:10px;
+	/* padding : 10px 50px 10px 50px; !important; */
+}
+
+.box .title{
+	position : absolute !important;
+	
+}
+.box .isi{
+	margin-top:15px;
+	padding : 10px 50px 10px 50px;
+	text-align: left;
+}
+
+.page_break {
+   page-break-after: always;
+   margin-top: 100px;
+}
+
+.signature td {
+   font-weight: bold;
+   font-size: 12pt;
+}
+
+.left {
+   font-size: 12pt;
+   text-align: left !important;
+}
+
+.right {
+   text-align: left;
+}
+
+.line{
+   border :1px solid #000;
+   margin-top:150px;
+}
+
+.center {
+   margin-left: auto !important;
+   margin-right: auto !important;
+}

@@ -1,0 +1,53 @@
+.datepicker{z-index:1151 !important;}
+.header{margin-bottom: 0;}
+.form-control{color:#4d5259;}
+
+.authbg_light::before { background: url('../img/bg.jpg'); background-size: cover; opacity: 0.7;}
+.authbg_dark { background: url('../img/uad_dark.png'); background-color: #191919; background-size: cover; }
+
+
+.cardheader{
+        box-shadow: 0 3px 9px 0 rgba(0, 0, 0, 0.16);
+       /* background-image: linear-gradient(to right, #03a0e5, #0b91cb, #1089be); */
+       background-color:#177196;
+        background-image:-moz-linear-gradient(bottom,#177196,#1B8FB2);
+        background-image:-webkit-gradient(linear,left bottom,left top,from(#177196),to(#1B8FB2));
+        background-image:-o-linear-gradient(bottom,#177196,#1B8FB2);
+        background-image:-ms-linear-gradient(bottom,#177196,#1B8FB2);
+        background-size: cover;
+        height: 50px;
+        border-radius: calc(0.25rem - 1px) calc(0.25rem - 1px) 0 0;
+}
+
+.topbar {
+    box-shadow: 0 3px 9px 0 rgba(0, 0, 0, 0.16);
+   /* background-image: linear-gradient(to right, #03a0e5, #0b91cb, #1089be); */
+   background-color:#177196;
+   background-image:-moz-linear-gradient(bottom,#177196,#1B8FB2);
+   background-image:-webkit-gradient(linear,left bottom,left top,from(#177196),to(#1B8FB2));
+   background-image:-o-linear-gradient(bottom,#177196,#1B8FB2);
+   background-image:-ms-linear-gradient(bottom,#177196,#1B8FB2);
+}
+
+.card-header {
+   /* background-image: linear-gradient(to right, #03a0e5, #0b91cb, #1089be); */
+   background-color:#177196;
+   background-image:-moz-linear-gradient(bottom,#177196,#1B8FB2);
+   background-image:-webkit-gradient(linear,left bottom,left top,from(#177196),to(#1B8FB2));
+   background-image:-o-linear-gradient(bottom,#177196,#1B8FB2);
+   background-image:-ms-linear-gradient(bottom,#177196,#1B8FB2);
+}
+
+
+.box {
+    box-shadow: 5px 5px 0px 0px rgba(0, 0, 0, 0.1);
+    color: #333;
+    border: 1px solid #03a0e5 !important;
+    height: auto !important;
+    border-radius: calc(0.25rem - 1px) calc(0.25rem - 1px) 0 0;
+}
+
+.card-title{
+    color:#fff;
+}
+
